@@ -3,6 +3,15 @@ Team Quokka is designing a software solution to help users of Genyus Network to 
 - [react-embed](#react-embed) (Primary deliverable)
 - [wordpress](#wordpress) (Demonstration site)
 
+## Handover Repository Overview
+All the important plugins that were customised are also available here.
+
+The acceptance demo video can be found: https://youtu.be/vPmtTzLiG0g
+
+The `documentation` folder contains an export of most of our internal Confluence documentation, which outlines some additional handover details, system design and architecture, as well as testing.
+
+The `fb-quokka-original` folder contains a compressed version of our development repository at the end of our third/final sprint. The structure of this includes all the plugins we used.
+
 ## Repository Structure Overview
 
 ```
