@@ -26,7 +26,7 @@ The `fb-quokka-original` folder contains a compressed version of our development
 │   │   ├── custom-api
 │   │   ├── react-embed (Primary deliverable)
 │   │   │   ├── components
-│   │   │   └── __tests__
+│   │   │   └── __tests__ （React testing)
 │   │   └── other plugins
 │   └── themes
 │       ├── buddyboss-theme
@@ -54,7 +54,7 @@ Inside react-embed:
     - Run `npm run build` to generate static assets for the WordPress plugin
 
 ## React Testing
-We used the officially recommended tools to test React applications - Jest and React Testing Library. The tools were used to write unit and integration tests for React components in a way resembling how the user will use the app. At least 50% statement coverage has been achieved for all components. To view the tests folder containing the test cases, click this link [testing](wp-content/plugins/react-embed/src/__tests__)
+We used the officially recommended tools to test React applications - Jest and React Testing Library. The tools were used to write unit and integration tests for React components in a way resembling how the user will use the app. At least 50% statement coverage has been achieved for all components. To view the tests folder containing the test cases, click this link [testing](plugins/react-embed/src/__tests__)
 
 ### How to reproduce tests
 
@@ -72,7 +72,7 @@ Option 1:
 4. The test report will be opened in the browser, with each file clickable to see which statements have not been covered
 
 Option 2: 
-1. Visit [Section-C](https://confluence.cis.unimelb.edu.au:8443/display/SWEN900142021FBQuokka/Individual+Section+Testing+Report) on Confluence
+1. Visit [Section-C. Migration App testing](https://confluence.cis.unimelb.edu.au:8443/display/SWEN900142021FBQuokka/Testing+Reports) on Confluence
 2. Download the zip files, and follow instructions written on Confluence.
 
 # wordpress
